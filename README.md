@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 ![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzu-ki&theme=dracula)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=suzu-ki&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzu-ki)
+<a href="https://github.com/suzu-ki">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=suzu-ki&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/suzu-ki">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=suzu-ki&count_private=true&show_icons=true&theme=dracula" />
+</a>
